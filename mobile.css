@@ -5,9 +5,10 @@
   }
 
   h2{
-    font-size: 64px;
+    font-size: 54px;
     line-height: 68px;
   }
+
 
   h5{
     font-size: 36px;
@@ -21,12 +22,22 @@
     max-width: 70%;}
   
 
+  p{
+    font-size: 20px;
+  }
+
   button{
     height: 80px;
     font-size: 24px;
     padding-left: 12px;
     padding-right: 12px;
   }
+
+
+  a{
+  font-size: 20px;
+  }
+
   
   .content-container{
    
@@ -109,9 +120,19 @@
     font-size: 22px;
   }
 
+
   .section-expiriences-card{
-    width: 90vw;
-   
+    width: 94%;
+    margin-top: 60px;
+  }
+  
+  .section-expiriences{
+    padding-top: 60px;
+    padding-bottom: 2%;
+  }
+
+  .section-contact{
+    padding-bottom: 20px;
   }
   .section-portfolio-grid{
     grid-template-columns: auto auto;
@@ -142,7 +163,7 @@
   }
   
   .footer-contet{
-    width: 100%;
+    width: 94vw;
   }
   .hero-info-icons-container{
     margin-top: 40px;
